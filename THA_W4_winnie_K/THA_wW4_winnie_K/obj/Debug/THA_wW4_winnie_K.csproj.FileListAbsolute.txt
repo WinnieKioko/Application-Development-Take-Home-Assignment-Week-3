@@ -1,0 +1,12 @@
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\bin\Debug\THA_wW4_winnie_K.exe.config
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\bin\Debug\THA_wW4_winnie_K.exe
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\bin\Debug\THA_wW4_winnie_K.pdb
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.csproj.AssemblyReference.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.csproj.SuggestedBindingRedirects.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.Form1.resources
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.Form2.resources
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.Properties.Resources.resources
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.csproj.GenerateResource.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.csproj.CoreCompileInputs.cache
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.exe
+D:\Mine\kumpulan tugas\ALPRO\THA_wW4_winnie_K\THA_wW4_winnie_K\obj\Debug\THA_wW4_winnie_K.pdb
